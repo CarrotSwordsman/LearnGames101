@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/sf_shared_folder/GAMES101_Homework_S2021/Homework4_S2021/Assignment4/main.cpp
+chrono
+-
+iostream
+-
+opencv2/opencv.hpp
+-
+
