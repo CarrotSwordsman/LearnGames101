@@ -1,0 +1,3 @@
+/media/sf_shared_folder/GAMES101_Homework_S2021/Homework7_S2021/Assignment7/build/CMakeFiles/rebuild_cache.dir
+/media/sf_shared_folder/GAMES101_Homework_S2021/Homework7_S2021/Assignment7/build/CMakeFiles/RayTracing.dir
+/media/sf_shared_folder/GAMES101_Homework_S2021/Homework7_S2021/Assignment7/build/CMakeFiles/edit_cache.dir
